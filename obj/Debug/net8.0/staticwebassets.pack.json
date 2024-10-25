@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SerTerraQueijaria.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SerTerraQueijaria.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\entrega.png",
+      "PackagePath": "staticwebassets\\img\\entrega.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaAmora1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaAmora2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaAmora3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaAmora4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFigo1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFigo2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFigo3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFigo4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFramboesa1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFramboesa2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFramboesa3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFramboesa4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFrutasVermelhas1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFrutasVermelhas2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFrutasVermelhas3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaFrutasVermelhas4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaMorango1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaMorango2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaMorango3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaMorango4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPessego1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPessego2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPessego3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPessego4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPimenta1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPimenta2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPimenta3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaPimenta4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva1.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaUva1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva2.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaUva2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva3.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaUva3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva4.jpg",
+      "PackagePath": "staticwebassets\\img\\geleiaUva4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\logoSerTerra.png",
+      "PackagePath": "staticwebassets\\img\\logoSerTerra.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\promocao.png",
+      "PackagePath": "staticwebassets\\img\\promocao.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\qualidade.png",
+      "PackagePath": "staticwebassets\\img\\qualidade.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoArtersanal.png",
+      "PackagePath": "staticwebassets\\img\\queijoArtersanal.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie1.png",
+      "PackagePath": "staticwebassets\\img\\queijoBrie1.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie2.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoBrie2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie3.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoBrie3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie4.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoBrie4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola1.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGorgonzola1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola2.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGorgonzola2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola3.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGorgonzola3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola4.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGorgonzola4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda1.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGouda1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda2.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGouda2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda3.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGouda3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda4.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoGouda4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano1.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoPecoritoRomano1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano2.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoPecoritoRomano2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano3.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoPecoritoRomano3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano4.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoPecoritoRomano4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette1.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoRaclette1.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette2.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoRaclette2.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette3.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoRaclette3.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette4.jpg",
+      "PackagePath": "staticwebassets\\img\\queijoRaclette4.jpg"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\vacaSerTerra.png",
+      "PackagePath": "staticwebassets\\img\\vacaSerTerra.png"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SerTerraQueijaria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SerTerraQueijaria.props",
+      "PackagePath": "build\\SerTerraQueijaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SerTerraQueijaria.props",
+      "PackagePath": "buildMultiTargeting\\SerTerraQueijaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SerTerraQueijaria.props",
+      "PackagePath": "buildTransitive\\SerTerraQueijaria.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

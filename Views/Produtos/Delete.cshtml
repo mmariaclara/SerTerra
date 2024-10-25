@@ -1,0 +1,59 @@
+﻿@model SerTerraQueijaria.Models.Produto
+
+@{
+    Layout = "_Layout-Admin";
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="ms-4 mb-3 mt-2">Apagar</h1>
+
+<h5 class="ms-4 mb-3">Você tem certeza que deseja deletar esse item?</h5>
+
+<hr class="ms-4 me-4" />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeProduto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeProduto)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PrecoUnitario)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PrecoUnitario)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QtdEstoque)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QtdEstoque)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoProdutoId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TipoProdutoId)
+        </dd>
+    </dl>
+
+    <div>
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ProdutoId" />
+            <input type="submit" value="Delete" class="btn btn-outline-danger mt-2 ms-4" />
+
+            <a asp-action="Index" class="btn mt-2 ms-1 border-1 border-dark">
+                <svg bootstrap-icon="ArrowLeft" width="16" height="16" arial-label="Voltar"></svg>
+                Voltar
+            </a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+﻿@model SerTerraQueijaria.Models.TiposProdutos
+
+@{
+    Layout = "_Layout-Admin";
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="ms-4 mb-3 mt-2">Detalhes</h1>
+
+<hr class="ms-4 me-4" />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2 mt-2 ms-4">
+            @Html.DisplayNameFor(model => model.TipoProduto)
+        </dt>
+        <dd class="col-sm-10 mt-2 ms-4">
+            @Html.DisplayFor(model => model.TipoProduto)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.TiposProdutosId" class="btn btn-outline-warning mt-2 ms-4">Editar</a>
+
+    <a asp-action="Index" class="btn mt-2 ms-1 border-1 border-dark">
+        <svg bootstrap-icon="ArrowLeft" width="16" height="16" arial-label="Voltar"></svg>
+        Voltar
+    </a>
+</div>
