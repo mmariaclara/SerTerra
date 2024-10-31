@@ -10,23 +10,23 @@ using SerTerraQueijaria.Models;
 
 namespace SerTerraQueijaria.Controllers
 {
-    public class ProdutosController : Controller
+    public class PedidosController : Controller
     {
         private readonly SerTerraContext _context;
 
-        public ProdutosController(SerTerraContext context)
+        public PedidosController(SerTerraContext context)
         {
             _context = context;
         }
 
-        // GET: Produtos
+        // GET: Pedidos
         public async Task<IActionResult> Index()
         {
-            var serTerraContext = _context.Produtos.Include(p => p.TipoProd);
+            var serTerraContext = _context.Pedidos.Include(p => p.Cliente);
             return View(await serTerraContext.ToListAsync());
         }
 
-        // GET: Produtos/Details/5
+        // GET: Pedidos/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {
             if (id == null)
@@ -34,43 +34,43 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var produto = await _context.Produtos
-                .Include(p => p.TipoProd)
-                .FirstOrDefaultAsync(m => m.ProdutoId == id);
-            if (produto == null)
+            var pedido = await _context.Pedidos
+                .Include(p => p.Cliente)
+                .FirstOrDefaultAsync(m => m.PedidoId == id);
+            if (pedido == null)
             {
                 return NotFound();
             }
 
-            return View(produto);
+            return View(pedido);
         }
 
-        // GET: Produtos/Create
+        // GET: Pedidos/Create
         public IActionResult Create()
         {
-            ViewData["TiposProdutoId"] = new SelectList(_context.TiposProduto, "TiposProdutoId", "TipoProduto");
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Cpf");
             return View();
         }
 
-        // POST: Produtos/Create
+        // POST: Pedidos/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProdutoId,NomeProduto,Descricao,PrecoUnitario,QtdEstoque,TiposProdutoId")] Produto produto)
+        public async Task<IActionResult> Create([Bind("PedidoId,DataHora,ClienteId,ValorDesconto")] Pedido pedido)
         {
             if (ModelState.IsValid)
             {
-                produto.ProdutoId = Guid.NewGuid();
-                _context.Add(produto);
+                pedido.PedidoId = Guid.NewGuid();
+                _context.Add(pedido);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["TiposProdutoId"] = new SelectList(_context.TiposProduto, "TiposProdutoId", "TiposProdutoId", produto.TiposProdutoId);
-            return View(produto);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Cpf", pedido.ClienteId);
+            return View(pedido);
         }
 
-        // GET: Produtos/Edit/5
+        // GET: Pedidos/Edit/5
         public async Task<IActionResult> Edit(Guid? id)
         {
             if (id == null)
@@ -78,23 +78,23 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var produto = await _context.Produtos.FindAsync(id);
-            if (produto == null)
+            var pedido = await _context.Pedidos.FindAsync(id);
+            if (pedido == null)
             {
                 return NotFound();
             }
-            ViewData["TiposProdutoId"] = new SelectList(_context.TiposProduto, "TiposProdutoId", "TiposProdutoId", produto.TiposProdutoId);
-            return View(produto);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Cpf", pedido.ClienteId);
+            return View(pedido);
         }
 
-        // POST: Produtos/Edit/5
+        // POST: Pedidos/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("ProdutoId,NomeProduto,Descricao,PrecoUnitario,QtdEstoque,TiposProdutoId")] Produto produto)
+        public async Task<IActionResult> Edit(Guid id, [Bind("PedidoId,DataHora,ClienteId,ValorDesconto")] Pedido pedido)
         {
-            if (id != produto.ProdutoId)
+            if (id != pedido.PedidoId)
             {
                 return NotFound();
             }
@@ -103,12 +103,12 @@ namespace SerTerraQueijaria.Controllers
             {
                 try
                 {
-                    _context.Update(produto);
+                    _context.Update(pedido);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProdutoExists(produto.ProdutoId))
+                    if (!PedidoExists(pedido.PedidoId))
                     {
                         return NotFound();
                     }
@@ -119,11 +119,11 @@ namespace SerTerraQueijaria.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["TiposProdutoId"] = new SelectList(_context.TiposProduto, "TiposProdutoId", "TiposProdutoId", produto.TiposProdutoId);
-            return View(produto);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Cpf", pedido.ClienteId);
+            return View(pedido);
         }
 
-        // GET: Produtos/Delete/5
+        // GET: Pedidos/Delete/5
         public async Task<IActionResult> Delete(Guid? id)
         {
             if (id == null)
@@ -131,35 +131,35 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var produto = await _context.Produtos
-                .Include(p => p.TipoProd)
-                .FirstOrDefaultAsync(m => m.ProdutoId == id);
-            if (produto == null)
+            var pedido = await _context.Pedidos
+                .Include(p => p.Cliente)
+                .FirstOrDefaultAsync(m => m.PedidoId == id);
+            if (pedido == null)
             {
                 return NotFound();
             }
 
-            return View(produto);
+            return View(pedido);
         }
 
-        // POST: Produtos/Delete/5
+        // POST: Pedidos/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
-            var produto = await _context.Produtos.FindAsync(id);
-            if (produto != null)
+            var pedido = await _context.Pedidos.FindAsync(id);
+            if (pedido != null)
             {
-                _context.Produtos.Remove(produto);
+                _context.Pedidos.Remove(pedido);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProdutoExists(Guid id)
+        private bool PedidoExists(Guid id)
         {
-            return _context.Produtos.Any(e => e.ProdutoId == id);
+            return _context.Pedidos.Any(e => e.PedidoId == id);
         }
     }
 }

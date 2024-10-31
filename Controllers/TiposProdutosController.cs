@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,7 +10,6 @@ using SerTerraQueijaria.Models;
 
 namespace SerTerraQueijaria.Controllers
 {
-    [Authorize(Roles = "Admin")]
     public class TiposProdutosController : Controller
     {
         private readonly SerTerraContext _context;
@@ -24,7 +22,7 @@ namespace SerTerraQueijaria.Controllers
         // GET: TiposProdutos
         public async Task<IActionResult> Index()
         {
-            return View(await _context.TiposProd.ToListAsync());
+            return View(await _context.TiposProduto.ToListAsync());
         }
 
         // GET: TiposProdutos/Details/5
@@ -35,14 +33,14 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var tiposProdutos = await _context.TiposProd
-                .FirstOrDefaultAsync(m => m.TiposProdutosId == id);
-            if (tiposProdutos == null)
+            var tiposProduto = await _context.TiposProduto
+                .FirstOrDefaultAsync(m => m.TiposProdutoId == id);
+            if (tiposProduto == null)
             {
                 return NotFound();
             }
 
-            return View(tiposProdutos);
+            return View(tiposProduto);
         }
 
         // GET: TiposProdutos/Create
@@ -56,16 +54,16 @@ namespace SerTerraQueijaria.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("TiposProdutosId,TipoProduto")] TiposProdutos tiposProdutos)
+        public async Task<IActionResult> Create([Bind("TiposProdutoId,TipoProduto")] TiposProduto tiposProduto)
         {
             if (ModelState.IsValid)
             {
-                tiposProdutos.TiposProdutosId = Guid.NewGuid();
-                _context.Add(tiposProdutos);
+                tiposProduto.TiposProdutoId = Guid.NewGuid();
+                _context.Add(tiposProduto);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(tiposProdutos);
+            return View(tiposProduto);
         }
 
         // GET: TiposProdutos/Edit/5
@@ -76,12 +74,12 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var tiposProdutos = await _context.TiposProd.FindAsync(id);
-            if (tiposProdutos == null)
+            var tiposProduto = await _context.TiposProduto.FindAsync(id);
+            if (tiposProduto == null)
             {
                 return NotFound();
             }
-            return View(tiposProdutos);
+            return View(tiposProduto);
         }
 
         // POST: TiposProdutos/Edit/5
@@ -89,9 +87,9 @@ namespace SerTerraQueijaria.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("TiposProdutosId,TipoProduto")] TiposProdutos tiposProdutos)
+        public async Task<IActionResult> Edit(Guid id, [Bind("TiposProdutoId,TipoProduto")] TiposProduto tiposProduto)
         {
-            if (id != tiposProdutos.TiposProdutosId)
+            if (id != tiposProduto.TiposProdutoId)
             {
                 return NotFound();
             }
@@ -100,12 +98,12 @@ namespace SerTerraQueijaria.Controllers
             {
                 try
                 {
-                    _context.Update(tiposProdutos);
+                    _context.Update(tiposProduto);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!TiposProdutosExists(tiposProdutos.TiposProdutosId))
+                    if (!TiposProdutoExists(tiposProduto.TiposProdutoId))
                     {
                         return NotFound();
                     }
@@ -116,7 +114,7 @@ namespace SerTerraQueijaria.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(tiposProdutos);
+            return View(tiposProduto);
         }
 
         // GET: TiposProdutos/Delete/5
@@ -127,14 +125,14 @@ namespace SerTerraQueijaria.Controllers
                 return NotFound();
             }
 
-            var tiposProdutos = await _context.TiposProd
-                .FirstOrDefaultAsync(m => m.TiposProdutosId == id);
-            if (tiposProdutos == null)
+            var tiposProduto = await _context.TiposProduto
+                .FirstOrDefaultAsync(m => m.TiposProdutoId == id);
+            if (tiposProduto == null)
             {
                 return NotFound();
             }
 
-            return View(tiposProdutos);
+            return View(tiposProduto);
         }
 
         // POST: TiposProdutos/Delete/5
@@ -142,19 +140,19 @@ namespace SerTerraQueijaria.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
-            var tiposProdutos = await _context.TiposProd.FindAsync(id);
-            if (tiposProdutos != null)
+            var tiposProduto = await _context.TiposProduto.FindAsync(id);
+            if (tiposProduto != null)
             {
-                _context.TiposProd.Remove(tiposProdutos);
+                _context.TiposProduto.Remove(tiposProduto);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool TiposProdutosExists(Guid id)
+        private bool TiposProdutoExists(Guid id)
         {
-            return _context.TiposProd.Any(e => e.TiposProdutosId == id);
+            return _context.TiposProduto.Any(e => e.TiposProdutoId == id);
         }
     }
 }

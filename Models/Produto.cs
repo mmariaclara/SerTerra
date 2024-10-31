@@ -26,9 +26,9 @@ namespace SerTerraQueijaria.Models
 
         [DisplayName("Categoria")]
         [Required(ErrorMessage = "É necessário ter uma Categoria.")]
-        public Guid TipoProdutoId { get; set; }
+        public Guid TiposProdutoId { get; set; }
 
-        public TiposProdutos? TipoProd {  get; set; }
+        public TiposProduto? TipoProd {  get; set; }
     }
 }
 

@@ -1,7 +1,6 @@
 ﻿@model IEnumerable<SerTerraQueijaria.Models.Produto>
 
 @{
-    Layout = "_Layout-Admin";
     ViewData["Title"] = "Index";
 }
 
@@ -26,7 +25,7 @@
                 @Html.DisplayNameFor(model => model.QtdEstoque)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.TipoProdutoId)
+                @Html.DisplayNameFor(model => model.TipoProd)
             </th>
             <th></th>
         </tr>
@@ -47,7 +46,7 @@
                 @Html.DisplayFor(modelItem => item.QtdEstoque)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.TipoProdutoId)
+                @Html.DisplayFor(modelItem => item.TipoProd.TiposProdutoId)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.ProdutoId">Edit</a> |

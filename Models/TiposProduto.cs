@@ -1,8 +1,8 @@
 ﻿namespace SerTerraQueijaria.Models
 {
-    public class TiposProdutos
+    public class TiposProduto
     {
-        public Guid TiposProdutosId { get; set; }
+        public Guid TiposProdutoId { get; set; }
         public string TipoProduto { get; set; }
     }
 }
