@@ -1,38 +1,41 @@
 ﻿@{
     ViewData["Title"] = "Home";
+
 }
 
-    <div class="carrossel">
-        <div id="carouselExampleIndicators" class="carousel slide">
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="~/img/promocao.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="~/img/queijoArtersanal.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="~/img/entrega.png" class="d-block w-100" alt="...">
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
+<!-- Carrossel -->
+<div class="carrossel">
+    <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/img/promocao.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/queijoArtersanal.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/entrega.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
+</div>
 
-<div class="row text-center align-items-center container my-5">
-    <div class="icon-wrapper">
+<!-- Benefícios -->
+<div class="frase">
+    <div class="icon-wrapper justify-content-center">
         <div class="icon-text">
             <i class="bi bi-shop"></i>
             <span>PRODUTOS ARTESANAIS</span>
@@ -58,77 +61,123 @@
     </div>
 </div>
 
+<!-- Título Lançamentos com linha -->
+<div class="linhas w-100">
+    <hr class="styleLinha" size="4" />
+    <h1 class="lancaLinha">DESTAQUES</h1>
+    <hr class="styleLinha" size="4">
+</div>
 
-    <div class="container-card">
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
+<div id="divpai">
+    <div>
+    </div>
+</div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
+<!--
+<div class="d-flex ">
+    <div class="fotosdiv w-25">
+        <img src="~/img/queijoRaclette1.jpg" class="foto1 d-block " alt="...">
+    </div>
+    <div class= " d-flex w-75 " id="divimgs">
+        <img src="~/img/geleiaUva4.jpg" class="foto2 d-block " alt="...">
+        <img src="~/img/geleiaAmora1.jpg" class="foto2 d-block " alt="...">
+        <img src="~/img/queijoGorgonzola3.jpg" class="foto2 d-block " alt="...">
+        <img src="~/img/queijoRaclette1.jpg" class="foto2 d-block " alt="...">
+        <img src="~/img/queijoRaclette1.jpg" class="foto2 d-block " alt="...">
+        <img src="~/img/queijoRaclette1.jpg" class="foto2 d-block " alt="...">
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
+    </div>
+</div>
+-->
+<!-- Imagem Qualidade -->
+<div class="container-fotos">
+    <img class="qualidade justify-content-center" src="~/img/qualidade.png" alt="Qualidade" />
+</div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
-        </div>
+<!-- Título Produtos com linha -->
+<div class="linhas w-100">
+    <hr class="styleLinha" size="4" />
+    <h1 class="lancaLinha">PRODUTOS</h1>
+    <hr class="styleLinha" size="4">
+</div>
 
-        <div class="card" style="width: 18rem;">
-            <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
-            <div class="card-body d-inline-flex flex-column align-items-center">
-                <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
-                <p class="card-text"><b>R$69,00</b></p>
-                <a href="#" class="btn-card card-sem-margem">COMPRAR</a>
-            </div>
+<!-- Cards -->
+<div class="container-card">
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title justify-content-center"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
         </div>
     </div>
+
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title "><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold ">COMPRAR</a>
+        </div>
+    </div>
+
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+    <div class="cardsIni">
+        <img src="~/img/queijoBrie1.png" class="card-img-top" alt="...">
+        <div class="card-body d-inline-flex flex-column align-items-center">
+            <h5 class="card-title"><b>QUEIJO BRIE - 300g</b></h5>
+            <p class="card-text"><b>R$69,00</b></p>
+            <a href="#" class="btn-card card-sem-margem fw-bold">COMPRAR</a>
+        </div>
+    </div>
+
+</div>
+
+<!-- Botão Ver Mais -->
+<div>
+    <a class="btnver row justify-content-center d-flex fw-bold" href="#" role="button">VER MAIS</a>
+</div>

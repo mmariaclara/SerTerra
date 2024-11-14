@@ -17,139 +17,179 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SerTerraQueijaria
 build_property.RootNamespace = SerTerraQueijaria
-build_property.ProjectDir = C:\Projeto\SerTerraQueijaria\
+build_property.ProjectDir = C:\Projeto\SerTerraQueijariaOficial\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projeto\SerTerraQueijaria
+build_property.MSBuildProjectDirectory = C:\Projeto\SerTerraQueijariaOficial
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projeto/SerTerraQueijaria/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Admin/Index.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Clientes/Create.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Clientes/Delete.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Clientes/Details.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Clientes/Edit.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Clientes/Index.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Home/Contato.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Home/Contato.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Home/Index.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Home/Privacy.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Home/Sobre.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Home/Sobre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Produtos/Create.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/ItensPedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNQZWRpZG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/ItensPedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNQZWRpZG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/ItensPedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNQZWRpZG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/ItensPedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNQZWRpZG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/ItensPedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNQZWRpZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Pedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Pedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Pedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Pedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projeto/SerTerraQueijariaOficial/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Produtos/Delete.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Produtos/Details.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Produtos/Edit.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Produtos/Index.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Shared/Error.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Shared/_LoginPartial.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/TiposProdutos/Create.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/TiposProdutos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQcm9kdXRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/TiposProdutos/Delete.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/TiposProdutos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQcm9kdXRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/TiposProdutos/Details.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/TiposProdutos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQcm9kdXRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/TiposProdutos/Edit.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/TiposProdutos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQcm9kdXRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/TiposProdutos/Index.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/TiposProdutos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQcm9kdXRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/_ViewImports.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/_ViewStart.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projeto/SerTerraQueijaria/Views/Shared/_Layout-Admin.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Shared/_Layout-Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQtQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9cen9zmycg
 
-[C:/Projeto/SerTerraQueijaria/Views/Shared/_Layout.cshtml]
+[C:/Projeto/SerTerraQueijariaOficial/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hq5c3ohs35

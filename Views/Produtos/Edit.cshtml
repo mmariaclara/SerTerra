@@ -1,54 +1,64 @@
 ﻿@model SerTerraQueijaria.Models.Produto
 
 @{
+    Layout = "_Layout-Admin";
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
 
-<h4>Produto</h4>
-<hr />
-<div class="row">
+<h1 class="montserrat-titulo">EDITAR</h1>
+
+<hr class="linha-admin">
+
+<div class="container">
     <div class="col-md-4">
         <form asp-action="Edit">
+
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
             <input type="hidden" asp-for="ProdutoId" />
-            <div class="form-group">
+
+            <div class="form-group mt-2">
                 <label asp-for="NomeProduto" class="control-label"></label>
                 <input asp-for="NomeProduto" class="form-control" />
                 <span asp-validation-for="NomeProduto" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mt-2">
                 <label asp-for="Descricao" class="control-label"></label>
                 <input asp-for="Descricao" class="form-control" />
                 <span asp-validation-for="Descricao" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mt-2">
                 <label asp-for="PrecoUnitario" class="control-label"></label>
                 <input asp-for="PrecoUnitario" class="form-control" />
                 <span asp-validation-for="PrecoUnitario" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mt-2">
                 <label asp-for="QtdEstoque" class="control-label"></label>
                 <input asp-for="QtdEstoque" class="form-control" />
                 <span asp-validation-for="QtdEstoque" class="text-danger"></span>
             </div>
-            <div class="form-group">
+
+            <div class="form-group mt-2">
                 <label asp-for="TiposProdutoId" class="control-label"></label>
-                <select asp-for="TiposProdutoId" class="form-control" asp-items="ViewBag.TiposProdutoId"></select>
+                <input asp-for="TiposProdutoId" class="form-control" />
                 <span asp-validation-for="TiposProdutoId" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+        
+
+            <div class="form-group mt-2 d-flex">
+                <input type="submit" value="Salvar" class="btn btn-outline-success mt-2 me-2" />
+                <a asp-action="Index" class="btn border-1 border-dark mt-2 me-2">
+                    <svg bootstrap-icon="ArrowLeft" width="16" height="16" aria-label="Voltar"></svg> Voltar
+                </a>
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

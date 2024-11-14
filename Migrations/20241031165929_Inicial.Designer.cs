@@ -12,7 +12,7 @@ using SerTerraQueijaria.Data;
 namespace SerTerraQueijaria.Migrations
 {
     [DbContext(typeof(SerTerraContext))]
-    [Migration("20241031112949_Inicial")]
+    [Migration("20241031165929_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />

@@ -1,35 +1,49 @@
 ﻿@model IEnumerable<SerTerraQueijaria.Models.TiposProduto>
 
 @{
+    Layout = "_Layout-Admin";
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
+<table class="table table-striped table-hover table-bordered rounded-3 border-1 border-dark mt-2">
     <thead>
         <tr>
-            <th>
+            <th class="col">
                 @Html.DisplayNameFor(model => model.TipoProduto)
             </th>
-            <th></th>
+            <th>
+                <a asp-action="Create" class="btn btn-outline-dark m-1 col-md d-none d-lg-block d-md-block cols-md-6 mt-1 col-md">
+                    <svg bootstrap-icon="PlusSquare" width="16" height="16" arial-label="Criar"></svg>
+                    Criar
+                </a>
+            </th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.TipoProduto)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.TiposProdutoId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.TiposProdutoId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.TiposProdutoId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="col">
+                    @Html.DisplayFor(modelItem => item.TipoProduto)
+                </td>
+                <td class="col-4">
+                    <a asp-action="Edit" asp-route-id="@item.TiposProdutoId" class="btn btn-outline-dark m-1 col-md d-none d-lg-block d-md-block cols-md-6 mt-1">
+                        <svg bootstrap-icon="PencilSquare" width="16" height="16" arial-label="Editar"></svg>
+                        Editar
+                    </a>
+
+                    <a asp-action="Details" asp-route-id="@item.TiposProdutoId" class="btn btn-outline-dark m-1 col-md d-none d-lg-block d-md-block cols-md-6 mt-1">
+                        <svg bootstrap-icon="InfoCircle" width="16" height="16" arial-label="Detalhes"></svg>
+                        Detalhes
+                    </a>
+
+                    <a asp-action="Delete" asp-route-id="@item.TiposProdutoId" class="btn btn-outline-dark m-1 col-md d-none d-lg-block d-md-block cols-md-6 mt-1">
+                        <svg bootstrap-icon="Trash" width="16" height="16" arial-label="Deletar"></svg>
+                        Deletar
+                    </a>
+
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

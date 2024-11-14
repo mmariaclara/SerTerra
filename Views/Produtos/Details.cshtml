@@ -1,6 +1,7 @@
 ﻿@model SerTerraQueijaria.Models.Produto
 
 @{
+    Layout = "_Layout-Admin";
     ViewData["Title"] = "Details";
 }
 
@@ -10,35 +11,35 @@
     <h4>Produto</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.NomeProduto)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.NomeProduto)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Descricao)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Descricao)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.PrecoUnitario)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.PrecoUnitario)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.QtdEstoque)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.QtdEstoque)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.TipoProd)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TiposProdutoId)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.TipoProd.TiposProdutoId)
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TiposProdutoId)
         </dd>
     </dl>
 </div>

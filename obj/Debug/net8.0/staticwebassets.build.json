@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8/hhTyoPLcHRk3R2V78nJcRD38gQIf/86ZucOiEy6ws=",
+  "Hash": "fE/3QSsMQgvtGujb3Z5KmnEzSXXIQwpCk9tU2Gh64/4=",
   "Source": "SerTerraQueijaria",
   "BasePath": "_content/SerTerraQueijaria",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SerTerraQueijaria\\wwwroot",
       "Source": "SerTerraQueijaria",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SerTerraQueijaria.styles.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SerTerraQueijaria.styles.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "SerTerraQueijaria.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SerTerraQueijaria.styles.css"
+      "OriginalItemSpec": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SerTerraQueijaria.styles.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SerTerraQueijaria.bundle.scp.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SerTerraQueijaria.bundle.scp.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "SerTerraQueijaria.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projeto\\SerTerraQueijaria\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SerTerraQueijaria.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SerTerraQueijaria.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\css\\site.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\favicon.ico",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\entrega.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\entrega.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/entrega.png",
       "AssetKind": "All",
@@ -112,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\img\\entrega.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\favicon.ico.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
+      "BasePath": "_content/SerTerraQueijaria",
+      "RelativePath": "img/favicon.ico.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\favicon.ico.png"
+    },
+    {
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaAmora1.jpg",
+      "SourceId": "SerTerraQueijaria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaAmora1.jpg",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaAmora1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaAmora2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaAmora2.jpg",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaAmora2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaAmora3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaAmora3.jpg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaAmora3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaAmora4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaAmora4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaAmora4.jpg",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaAmora4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFigo1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFigo1.jpg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFigo1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFigo2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFigo2.jpg",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFigo2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFigo3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFigo3.jpg",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFigo3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFigo4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFigo4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFigo4.jpg",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFigo4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFramboesa1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFramboesa1.jpg",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFramboesa1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFramboesa2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFramboesa2.jpg",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFramboesa2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFramboesa3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFramboesa3.jpg",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFramboesa3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFramboesa4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFramboesa4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFramboesa4.jpg",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFramboesa4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFrutasVermelhas1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFrutasVermelhas1.jpg",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFrutasVermelhas1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFrutasVermelhas2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFrutasVermelhas2.jpg",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFrutasVermelhas2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFrutasVermelhas3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFrutasVermelhas3.jpg",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFrutasVermelhas3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaFrutasVermelhas4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaFrutasVermelhas4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaFrutasVermelhas4.jpg",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaFrutasVermelhas4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaMorango1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaMorango1.jpg",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaMorango1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaMorango2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaMorango2.jpg",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaMorango2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaMorango3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaMorango3.jpg",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaMorango3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaMorango4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaMorango4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaMorango4.jpg",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaMorango4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPessego1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPessego1.jpg",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPessego1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPessego2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPessego2.jpg",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPessego2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPessego3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPessego3.jpg",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPessego3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPessego4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPessego4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPessego4.jpg",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPessego4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPimenta1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPimenta1.jpg",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPimenta1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPimenta2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPimenta2.jpg",
       "AssetKind": "All",
@@ -606,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPimenta2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPimenta3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPimenta3.jpg",
       "AssetKind": "All",
@@ -625,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPimenta3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaPimenta4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaPimenta4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaPimenta4.jpg",
       "AssetKind": "All",
@@ -644,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaPimenta4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaUva1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaUva1.jpg",
       "AssetKind": "All",
@@ -663,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaUva1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaUva2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaUva2.jpg",
       "AssetKind": "All",
@@ -682,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaUva2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaUva3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaUva3.jpg",
       "AssetKind": "All",
@@ -701,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaUva3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\geleiaUva4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\geleiaUva4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/geleiaUva4.jpg",
       "AssetKind": "All",
@@ -720,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\geleiaUva4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\logoSerTerra.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\logoSerTerra.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/logoSerTerra.png",
       "AssetKind": "All",
@@ -739,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logoSerTerra.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\promocao.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\promocao.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/promocao.png",
       "AssetKind": "All",
@@ -758,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\promocao.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\qualidade.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\qualidade.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/qualidade.png",
       "AssetKind": "All",
@@ -777,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\qualidade.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoArtersanal.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoArtersanal.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoArtersanal.png",
       "AssetKind": "All",
@@ -796,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoArtersanal.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie1.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoBrie1.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoBrie1.png",
       "AssetKind": "All",
@@ -815,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoBrie1.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoBrie2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoBrie2.jpg",
       "AssetKind": "All",
@@ -834,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoBrie2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoBrie3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoBrie3.jpg",
       "AssetKind": "All",
@@ -853,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoBrie3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoBrie4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoBrie4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoBrie4.jpg",
       "AssetKind": "All",
@@ -872,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoBrie4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGorgonzola1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGorgonzola1.jpg",
       "AssetKind": "All",
@@ -891,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGorgonzola1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGorgonzola2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGorgonzola2.jpg",
       "AssetKind": "All",
@@ -910,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGorgonzola2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGorgonzola3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGorgonzola3.jpg",
       "AssetKind": "All",
@@ -929,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGorgonzola3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGorgonzola4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGorgonzola4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGorgonzola4.jpg",
       "AssetKind": "All",
@@ -948,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGorgonzola4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGouda1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGouda1.jpg",
       "AssetKind": "All",
@@ -967,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGouda1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGouda2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGouda2.jpg",
       "AssetKind": "All",
@@ -986,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGouda2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGouda3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGouda3.jpg",
       "AssetKind": "All",
@@ -1005,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGouda3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoGouda4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoGouda4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoGouda4.jpg",
       "AssetKind": "All",
@@ -1024,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoGouda4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoPecoritoRomano1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoPecoritoRomano1.jpg",
       "AssetKind": "All",
@@ -1043,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoPecoritoRomano1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoPecoritoRomano2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoPecoritoRomano2.jpg",
       "AssetKind": "All",
@@ -1062,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoPecoritoRomano2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoPecoritoRomano3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoPecoritoRomano3.jpg",
       "AssetKind": "All",
@@ -1081,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoPecoritoRomano3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoPecoritoRomano4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoPecoritoRomano4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoPecoritoRomano4.jpg",
       "AssetKind": "All",
@@ -1100,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoPecoritoRomano4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette1.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoRaclette1.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoRaclette1.jpg",
       "AssetKind": "All",
@@ -1119,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoRaclette1.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette2.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoRaclette2.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoRaclette2.jpg",
       "AssetKind": "All",
@@ -1138,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoRaclette2.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette3.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoRaclette3.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoRaclette3.jpg",
       "AssetKind": "All",
@@ -1157,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoRaclette3.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\queijoRaclette4.jpg",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\queijoRaclette4.jpg",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/queijoRaclette4.jpg",
       "AssetKind": "All",
@@ -1176,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\queijoRaclette4.jpg"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\img\\vacaSerTerra.png",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\img\\vacaSerTerra.png",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "img/vacaSerTerra.png",
       "AssetKind": "All",
@@ -1195,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vacaSerTerra.png"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\js\\site.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1328,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1347,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1385,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1404,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1423,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1461,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1480,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1499,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1537,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1556,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1575,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1613,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1651,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1689,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1708,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1727,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1841,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1860,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1879,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1898,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1917,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1936,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1955,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1974,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1993,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2012,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2031,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2069,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2088,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2107,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2126,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2145,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2164,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2183,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2202,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2221,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2240,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2259,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2278,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SerTerraQueijaria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projeto\\SerTerraQueijaria\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto\\SerTerraQueijariaOficial\\wwwroot\\",
       "BasePath": "_content/SerTerraQueijaria",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

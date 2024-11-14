@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPY607RxWuY=",
+  "dgSpecHash": "QXMRKYlRTGM=",
   "success": true,
-  "projectFilePath": "C:\\Projeto\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
+  "projectFilePath": "C:\\Projeto\\SerTerraQueijariaOficial\\SerTerraQueijaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

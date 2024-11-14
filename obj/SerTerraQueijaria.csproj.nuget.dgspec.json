@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeto\\SerTerraQueijaria\\SerTerraQueijaria.csproj": {}
+    "C:\\Projeto\\SerTerraQueijariaOficial\\SerTerraQueijaria.csproj": {}
   },
   "projects": {
-    "C:\\Projeto\\SerTerraQueijaria\\SerTerraQueijaria.csproj": {
+    "C:\\Projeto\\SerTerraQueijariaOficial\\SerTerraQueijaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
+        "projectUniqueName": "C:\\Projeto\\SerTerraQueijariaOficial\\SerTerraQueijaria.csproj",
         "projectName": "SerTerraQueijaria",
-        "projectPath": "C:\\Projeto\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
+        "projectPath": "C:\\Projeto\\SerTerraQueijariaOficial\\SerTerraQueijaria.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto\\SerTerraQueijaria\\obj\\",
+        "outputPath": "C:\\Projeto\\SerTerraQueijariaOficial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
